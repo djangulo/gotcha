@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="25.351637mm"
+   height="25.668703mm"
+   viewBox="0 0 25.351635 25.668704"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-65.228303,-130.52756)">
+    <g
+       id="g1026"
+       transform="matrix(0.38666602,0,0,0.42488723,40.043353,75.034778)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3.30901;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="path887"
+         d="M 129.04378,163.32288 A 29.230907,26.039759 0 0 1 103.12706,189.19472 29.230907,26.039759 0 0 1 71.333489,169.18956" />
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="path904"
+         d="m 82.758682,173.09039 -14.901959,7.06075 1.336191,-16.43585 z" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3.30901;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="path910"
+         d="m -66.788105,-158.30194 a 29.230907,26.039759 0 0 1 -25.916719,25.87185 29.230907,26.039759 0 0 1 -31.793576,-20.00517"
+         transform="scale(-1)" />
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="path912"
+         d="m -113.0732,-148.53441 -14.90196,7.06075 1.33619,-16.43585 z"
+         transform="scale(-1)" />
+    </g>
+  </g>
+</svg>

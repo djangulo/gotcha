@@ -1,0 +1,19 @@
+[
+  {
+    "question": "Quelle est la couleur du chapeau de Papa Schtroumpf ?",
+    "answers": ["rouge"]
+  },
+  {
+    "question": "De quelle couleur est le ciel ?",
+    "answers": ["bleu", "bleue"]
+  },
+  {
+    "question": "Combien de pates a une araignée ?",
+    "answers": ["huit", "8"]
+  },
+  { "question": "Combien de pattes a un cheval ?", "answers": ["quatre", "4"] },
+  {
+    "question": "Quelle est la couleur du soleil ?",
+    "answers": ["jaune", "or", "d'or", "doré"]
+  }
+]

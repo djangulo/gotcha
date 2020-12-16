@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gotcha</title>
+  <link rel="stylesheet" href="./gotcha.css">
+</head>
+<body>
+  <div class="gotcha-captcha" data-gotcha-id="%d" style="width: 240px;" >
+    <img alt="captcha image" id="gotcha-challenge-image" src="./candy-shop.png" />
+    <input type="text" id="gotcha-challenge-response" name="challenge-response"/>
+    <div class="gotcha-button-group" style="width: 100%;">
+      <button class="gotcha-button gotcha-validate" type="button">Validate</button>
+      <button class="gotcha-button gotcha-flex-end" type="button"><img class="icon" style="width: 20px; height: 0.9rem;" src="./static/img/refresh_32x32.png"></button>
+      <button class="gotcha-button gotcha-flex-end" type="button"><img class="icon" style="width: 20px; height: 0.9rem;" src="./static/img/audio_32x32.png"></button>
+    </div>
+  </div>
+  <div id="other-captcha">
+
+  </div>
+</body>
+<script src="./gotcha.tmpl.js"></script>
+<script>
+  Gotcha.render('other-captcha');
+</script>
+</html>

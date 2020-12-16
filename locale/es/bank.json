@@ -1,0 +1,19 @@
+[
+  {
+    "question": "¿Cuál es el color del sombrero de Papá Pitufo?",
+    "answers": ["rojo"]
+  },
+  { "question": "¿Qué color es el cielo?", "answers": ["azul"] },
+  {
+    "question": "¿Cuántas patas tiene una araña?",
+    "answers": ["ocho", "8"]
+  },
+  {
+    "question": "¿Cuántas patas tiene un caballo?",
+    "answers": ["cuatro", "4"]
+  },
+  {
+    "question": "¿Cuál es el color del sol?",
+    "answers": ["amarillo", "dorado"]
+  }
+]

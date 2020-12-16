@@ -1,0 +1,13 @@
+[
+  { "question": "What color is Papa Smurf's hat?", "answers": ["red"] },
+  { "question": "What is the color of the sky?", "answers": ["blue"] },
+  {
+    "question": "How many legs does a spider have?",
+    "answers": ["eight", "8"]
+  },
+  { "question": "How many legs does a horse have?", "answers": ["four", "4"] },
+  {
+    "question": "What is the color of the sun?",
+    "answers": ["yellow", "gold", "golden"]
+  }
+]
